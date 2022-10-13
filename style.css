@@ -80,7 +80,7 @@ h4{
     width: 25px;
 }
 .count p {
-    display: inline;
+    display: inline-block;
 }
 /* ---------------testimonial----------- */
 #testimonial img {
